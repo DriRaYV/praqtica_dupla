@@ -1,2 +1,2 @@
-# praqtica_dupla
+# pratica_dupla
  
